@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1545744640 source:/home/safwat/study/c++/test/main.c
+	<stdio.h>
+	<stdlib.h>
+

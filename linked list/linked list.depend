@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1548009427 source:/home/safwat/study/c++/linked list/main.cpp
+	<iostream>
+	<string.h>
+

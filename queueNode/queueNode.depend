@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1546251634 source:/home/safwat/study/c++/queueNode/main.cpp
+	<iostream>
+	<string.h>
+
